@@ -50,8 +50,6 @@
             <br>ChatGPT
         </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="105">
         <a href="https://github.com/mlabonne/llm-course">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/llm-logo.jfif" width="65" height="65" alt="LLM" />
@@ -76,6 +74,8 @@
             <br>Numpy
         </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/pandas/default.asp">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/pandas-logo.png" alt="Pandas" width="65" height="65" />
@@ -106,8 +106,6 @@
             <br>Beautiful Soup
         </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="105">
         <a href="https://docs.scrapy.org/en/latest/intro/tutorial.html">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scrapy-logo.png" width="65" height="65" alt="Scrapy" />
@@ -126,6 +124,8 @@
             <br>Docker
         </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/js/default.asp">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
