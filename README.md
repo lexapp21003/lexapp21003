@@ -68,14 +68,14 @@
             <br>FastAPI
         </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/numpy/default.asp">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
             <br>Numpy
         </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/pandas/default.asp">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/pandas-logo.png" alt="Pandas" width="65" height="65" />
