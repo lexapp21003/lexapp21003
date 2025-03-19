@@ -20,24 +20,6 @@
             <br>Python
         </a>
     </td>
-        <td align="center" width="105">
-        <a href="https://www.w3schools.com/python/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
-            <br>PHP
-        </a>
-    </td>
-    <td align="center" width="105">
-        <a href="https://www.geeksforgeeks.org/flask-tutorial/">
-            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/flask.png" width="65" height="65" alt="Flask" />
-            <br>Flask
-        </a>
-    </td>
-    <td align="center" width="105">
-        <a href="https://www.w3schools.com/django/index.php">
-            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-            <br>Django
-        </a>
-    </td>
     <td align="center" width="105">
         <a href="https://python.langchain.com/v0.1/docs/additional_resources/tutorials/">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/langchain-logo.jfif" alt="LangChain" width="65" height="65" />
@@ -166,6 +148,24 @@
         <a href="https://www.w3schools.com/nodejs/default.asp">
             <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
             <br>NodeJS
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/python/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+            <br>PHP
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.geeksforgeeks.org/flask-tutorial/">
+            <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/flask.png" width="65" height="65" alt="Flask" />
+            <br>Flask
+        </a>
+    </td>
+    <td align="center" width="105">
+        <a href="https://www.w3schools.com/django/index.php">
+            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+            <br>Django
         </a>
     </td>
     <td align="center" width="105">
