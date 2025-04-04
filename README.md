@@ -71,6 +71,36 @@
   </tr>
   <tr>
     <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=solidity" width="65" height="65" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="105">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="65" height="65" alt="Ethereum" />
+      <br>Ethereum
+    </td>
+    <td align="center" width="105">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="65" height="65" style="border-radius: 15px;" alt="Solana" />
+      <br>Solana
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=go" width="65" height="65" alt="Go" />
+      <br>Go
+    </td>
+    <td align="center" width="105">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="65" >
+      <br>NFT
+    </td>
+    <td align="center" width="105">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="65" >
+      <br>DeFi
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="105">
         <a href="https://www.w3schools.com/python/numpy/default.asp">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
             <br>Numpy
