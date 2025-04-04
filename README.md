@@ -98,8 +98,6 @@
       <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="65" >
       <br>DeFi
     </td>
-  </tr>
-  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/numpy/default.asp">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/numpy-logo.png" alt="Numpy" width="65" height="65" />
@@ -112,6 +110,8 @@
             <br>Pandas
         </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/python/scipy/index.php">
             <img src="https://github.com/hi-tech-AI/hi-tech-AI/blob/main/scipy-logo.jfif" width="65" height="65" alt="Scipy" />
@@ -154,8 +154,6 @@
             <br>Docker
         </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/js/default.asp">
             <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -168,6 +166,8 @@
             <br>TypeScript
         </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/react/default.asp">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -197,6 +197,14 @@
             <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
             <br>Django
         </a>
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="nestjs" />
+      <br>NestJS
+    </td>
+    <td align="center" width="105">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="65" height="65" alt="nuxjs" />
+      <br>NuxtJS
     </td>
     <td align="center" width="105">
         <a href="https://www.w3schools.com/mongodb/index.php">
